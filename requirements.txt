@@ -1,5 +1,6 @@
 Flask==2.3.3
 yfinance==0.2.36
+numpy==1.26.4
 pandas==2.2.2
 gspread==5.12.0
 google-auth==2.29.0
