@@ -1,9 +1,9 @@
-setuptools>=65.5.0
+setuptools==65.5.0
 wheel
 Flask==2.3.3
 yfinance==0.2.36
 numpy==1.26.4
-pandas==2.2.2
+pandas==1.5.3
 gspread==5.12.0
 google-auth==2.29.0
 google-auth-oauthlib==1.2.0
